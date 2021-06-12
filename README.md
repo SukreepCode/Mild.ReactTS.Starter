@@ -10,6 +10,11 @@ Refactor from a class component to functional component.
 - No Redux
 - Functional components
 
+# Dependencies
+- bootstrap 5
+- React 17 
+- typescript 4
+
 <!-- more -->
 # Run
 
